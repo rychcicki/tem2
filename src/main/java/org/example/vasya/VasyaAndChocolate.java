@@ -1,4 +1,4 @@
-package org.example.vasyaAndChocolate;
+package org.example.vasya;
 
 import java.util.Scanner;
 
